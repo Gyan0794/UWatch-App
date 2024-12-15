@@ -1,0 +1,73 @@
+# Node modules
+/node_modules
+/.pnp
+.pnp.js
+
+# Build directories
+build/
+dist/
+
+# testing
+/coverage
+
+# production
+/build
+
+# Temporary files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+.DS_Store
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+.eslintcache
+.results
+
+# OS files
+Thumbs.db
+*.DS_Store
+
+# Coverage directory used by testing tools
+coverage/
+
+# Cache and static files
+.cache/
+public/static/
+
+# Miscellaneous
+*.lock
+*.bak
+*.tmp
+*.seed
+*.pid
+.DS_Store
+
+# Generated files
+*.map
+
+# SASS cache
+.sass-cache/
+
+# ESLint cache
+.eslintcache
+
+# Webpack cache
+.webpack/
+
+# Storybook files
+.storybook/
+
+# Prettier log and backup files
+.prettier-cache/
